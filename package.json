@@ -1,5 +1,5 @@
 {
-  "name": "get-pixels",
+  "name": "get-pixels-node",
   "version": "3.3.3",
   "description": "Reads the pixels of an image as an ndarray",
   "main": "node-pixels.js",
